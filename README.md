@@ -1,5 +1,5 @@
 # Palmora-Group-Employee-Analysis-and-Dashboard
-This project focuses on gender issues within the Palmora Group and its regions. It provides analyis and corresponding dashboard views using Microsoft Power BI Software. The project started with understanding the dataset, and removal of invalid rows, nomenclature of the undisclosed gender proper transformation of the tables and creation of calculated columns, after these exploratory data analysis was done.
+This project focuses on gender issues within the Palmora Group and its regions. It provides analyis and corresponding dashboard views using Microsoft Power BI Software. The project started with understanding the dataset, and removal of invalid rows, nomenclature of the undisclosed gender proper transformation of the tables and creation of calculated columns, after these exploratory data analysis was done. Please find attached to this repository, the Microsoft Power BI file developed from this project. 
 # Introduction
 The Dataset used consists of several features, ranging from quantitative to qualititative dsta categories. The following are labels of the data.
 - Name
