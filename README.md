@@ -45,4 +45,6 @@ The outputs of the project were exploratory data analysis, which consisted of gr
 - The male gender is more than the female gender accross boards in the company. 
 - The salary received is highest in Kaduna region and lowest in Lagos.
 - The EDA reveals that the male category recieved more salary than the female gender across the regions. The undisclosed gender status received the least.
-- Most employees were paid above 90,000 per year while the least were paid between 20,000 and 30,000 per year. etc.
+- Most employees were paid above 90,000 per year while the least were paid between 20,000 and 30,000 per year.
+- There are disparities in the total pay received by different genders in each department across the regions of Palmora Group
+  - The female gender received most in three deparments, namely: services, engineering and research and development departments while the male category received most in product and management, legal, support, human resources, sales and accounting departments. etc.
